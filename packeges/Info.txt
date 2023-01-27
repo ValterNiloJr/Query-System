@@ -1,0 +1,20 @@
+1. Gerenciamento do Banco de dados:
+   > Acesse o Sistema no menu superior
+   > Vá para a aba de Banco de Dados
+   > Abra o diretório dos arquivos para que sejam carregados no Banco
+   > Aguarde até que a barra de progresso esteja em 100% e mostre 'Concluido'
+   > É possível Atualizar apenas os arquivos adicionais no banco clicando em 'Atualizar Arquivos'
+   > O botão 'Deletar Banco' remove todos os dados no banco permitindo a criação de um novo
+2. Consultas:
+   > Acesse o Sistema no menu superior
+   > Vá para a aba de Consultas
+   > Se o 'Status' do banco estiver OK, basta digitar a(s) palavra(s) desejada(s) e aguardar o resultado
+   > O resultado será exibido abaixo indicando: 	        Consulta da palavra 'teste':
+	Nome do arquivo . extensão                          > Arquivo.txt
+	Localização                                                     > Linha 2
+	Linha			                    > Este é apenas um teste
+3. Para buscar outro termo:
+   > basta alterar o termo sem fechar o programa.
+
+Observação geral:
+- O termo de busca é 'case sensitive', ou seja, existe uma distinção de letras maiúsculas e minúsculas, acentos e caracteres especiais.
